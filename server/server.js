@@ -19,10 +19,10 @@ const API_BASE_URL = "https://6891f14a447ff4f11fbe7065.mockapi.io/users";
 
 // ✅ Middleware chặn truy cập không hợp lệ (Render + GitHub Pages)
 const whitelist = [
-  "https://eden-batw.onrender.com/",
-  "https://evgenberin.github.io/",  // GitHub Pages
-  "https://khachsanedenplaza.com/",
-  "https://www.khachsanedenplaza.com/"
+  "https://sanouva.onrender.com/",
+  "https://hammurabi99.github.io/",  // GitHub Pages
+  "https://khachsansanouva.com/",
+  "https://www.khachsansanouva.com/"
 ];
 
 // Ping
